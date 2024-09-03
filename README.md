@@ -1,5 +1,5 @@
 
-#Welcome to the Alcolea Lab
+Welcome to the Alcolea Lab
 
 # 💫 About Me:
 🔭 Introduction<br><br>👯 Research Focus<br><br>🤝 Team Members<br><br>🌱 Publications<br><br>💬 Contact Information<br><br>📷 Visuals
